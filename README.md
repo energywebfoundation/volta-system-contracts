@@ -1,8 +1,8 @@
-# EWC system contracts
-Infrastructure contracts for EnergyWebChain and Volta live launch.
+# Volta test network system contracts
+Infrastructure contracts for EWF's Volta test network.
 
-[![Build Status](https://travis-ci.com/energywebfoundation/ewc-system-contracts.svg?token=citknsDHYPZgYDNiiBdy&branch=master)](https://travis-ci.com/energywebfoundation/ewc-system-contracts)
-[![Coverage Status](https://coveralls.io/repos/github/energywebfoundation/ewc-system-contracts/badge.svg?branch=master)](https://coveralls.io/github/energywebfoundation/ewc-system-contracts?branch=master)
+[![Build Status](https://travis-ci.com/energywebfoundation/volta-system-contracts.svg?branch=master)](https://travis-ci.com/energywebfoundation/volta-system-contracts)
+[![Coverage Status](https://coveralls.io/repos/github/energywebfoundation/volta-system-contracts/badge.svg?branch=master)](https://coveralls.io/github/energywebfoundation/volta-system-contracts?branch=master)
 
 ## Maintainers
 **Primary**: Adam Nagy (@ngyam)
